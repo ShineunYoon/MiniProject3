@@ -12,9 +12,16 @@ Compared to the my experience developing different applications (Android,iOS and
   - AWS Device Farm
     This service allows you to test user-built app with multiple physical devices in parallel on the AWS Cloud.
     
+  - Settings
     Following screenshots shows the configurations I used for testing:
     
 ![Screeenshots for Testing Configuration](https://github.com/ShineunYoon/MiniProject3/blob/master/Screen%20Shot%202019-12-13%20at%2020.14.21.png)
 ![Screeenshots for Testing Configuration](https://github.com/ShineunYoon/MiniProject3/blob/master/Screen%20Shot%202019-12-13%20at%2020.14.52.png)
 ![Screeenshots for Testing Configuration](https://github.com/ShineunYoon/MiniProject3/blob/master/Screen%20Shot%202019-12-13%20at%2020.15.07.png)
 
+  - Results
+    
+    ![Test Results](https://github.com/ShineunYoon/MiniProject3/blob/master/Screen%20Shot%202019-12-13%20at%2020.22.38.png)
+    
+    The result was successful considering it passed 11 run out of 13. One of the errors were happened on the Galaxy S9+ which is relatively new device compared to gradle version installed. The other one from java.null.exception which could possibly solved through the modifications. 
+    

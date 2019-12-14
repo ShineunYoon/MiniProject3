@@ -12,3 +12,9 @@ Compared to the my experience developing different applications (Android,iOS and
   - AWS Device Farm
     This service allows you to test user-built app with multiple physical devices in parallel on the AWS Cloud.
     
+    Following screenshots shows the configurations I used for testing:
+    
+![Screeenshots for Testing Configuration](https://github.com/ShineunYoon/MiniProject3/blob/master/Screen%20Shot%202019-12-13%20at%2020.14.21.png)
+![Screeenshots for Testing Configuration](https://github.com/ShineunYoon/MiniProject3/blob/master/Screen%20Shot%202019-12-13%20at%2020.14.52.png)
+![Screeenshots for Testing Configuration](https://github.com/ShineunYoon/MiniProject3/blob/master/Screen%20Shot%202019-12-13%20at%2020.15.07.png)
+
